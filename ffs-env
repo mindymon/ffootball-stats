@@ -1,0 +1,10 @@
+#!/bin/bash
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+FFS_BIN=$DIR/bin
+[[ ":$PATH:" != *":$FFS_BIN:"* ]] && export PATH=$PATH:$FFS_BIN
+
+
+echo "Fantasy Football Statistics Environment Setup."
+echo "GO TEAM MONTY!"
