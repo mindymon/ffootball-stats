@@ -1,3 +1,30 @@
 # FANTASY FOOTBALL STATISTICS OVERVIEW
 
-Add detail here.
+This project is an experiment to determine predictive models for fantasy football statistics.  
+
+## BACKGROUND
+
+After several years of playing Fantasy Football with limited success using "gut feel" or guessing, we decided that we'd try to develop a predictive model to maximize weekly fantasy points.  We'll investigate models for each position group based on official game statistics, derived statistics, and use the most common fantasy football point models.  Bonuses for levels of performance will not be considered in the original models, but may be investigated or discussed in particular situations.
+
+Primarily, we will be looking at models that will maximize the points for an entire fantasy football season and attempt to develop a rating number for players that could correlate to draft position/priority.  
+
+## STATISTICS
+For developing the models, we'll be using official game statistics from 2010 - present, derived statistics such as passer rating, and other information related to in-game performance.  In some cases, we may consider statistics from other player groups when invstigating the models, e.g., Quarterback statistics may be considering when investigating the model for Running Backs.
+
+In addition to the models, we will investigate inferential statistics to better understand the population and data in order to make initial decisions about which data features to include as part of the model. 
+
+## 
+
+## QUESTIONS
+
+
+## ABBREVIATIONS
+RB
+QB
+WR
+K
+TE
+DEF/ST
+
+## REFERENCES
+
