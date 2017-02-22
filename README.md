@@ -2,7 +2,7 @@
 
 Project focused on extracting and analyzing NFL football statistics to better predict Fantasy Football player performance.
 
-[a relative link](docs/index.md)
+[Statistics Overview](docs/index.md)
 
 
 # DEVELOPMENT SETUP
