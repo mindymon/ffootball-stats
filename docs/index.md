@@ -13,6 +13,9 @@ For developing the models, we'll be using official game statistics from 2010 - p
 
 In addition to the models, we will investigate inferential statistics to better understand the population and data in order to make initial decisions about which data features to include as part of the model. 
 
+### POSITION GROUP STATISTICS
+[Quarterback](docs/quarterback.md)
+
 ## 
 
 ## QUESTIONS
