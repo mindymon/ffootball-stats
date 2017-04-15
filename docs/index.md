@@ -13,6 +13,8 @@ For developing the models, we'll be using official game statistics from 2010 - p
 
 In addition to the models, we will investigate inferential statistics to better understand the population and data in order to make initial decisions about which data features to include as part of the model.
 
+Models will be adjusted weekly, based on a player's statistics from the previous week's game.  We will examine the model both before and after the latest statistics are added.  This will help us understand if a player's "trend" is changing and how.  We will look at both indiviudal players as well as the aggregate stats for each position group.
+
 ### POSITION GROUP STATISTICS
 [Quarterback](docs/quarterback.md)
 [Running Backs](docs/running_backs.md)
@@ -26,6 +28,9 @@ In addition to the models, we will investigate inferential statistics to better 
 3) Does a highly variable/high upside player contribute to more wins than a consistent player?
 4) Which position has the highest level of variability?
 5) Is Alan Miller really good at Fantasy Football?
+6) Should you switch kickers every week?
+
+
 
 
 ## ABBREVIATIONS
