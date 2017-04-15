@@ -25,6 +25,7 @@ In addition to the models, we will investigate inferential statistics to better 
 2) How much variability/uncertainty does each position/position group have?
 3) Does a highly variable/high upside player contribute to more wins than a consistent player?
 4) Which position has the highest level of variability?
+5) Is Alan Miller really good at Fantasy Football?
 
 
 ## ABBREVIATIONS
