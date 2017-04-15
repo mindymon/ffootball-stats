@@ -20,6 +20,10 @@ In addition to the models, we will investigate inferential statistics to better 
 ## 
 
 ## QUESTIONS
+1) How much does each position/position group contribute to a team's total points?
+2) How much variability/uncertainty does each position/position group have?
+3) Does a highly variable/high upside player contribute to more wins than a consistent player?
+4) Which position has the highest level of variability?
 
 
 ## ABBREVIATIONS
