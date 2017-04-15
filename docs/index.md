@@ -16,6 +16,7 @@ In addition to the models, we will investigate inferential statistics to better 
 ### POSITION GROUP STATISTICS
 [Quarterback](docs/quarterback.md)
 [Running Backs](docs/running_backs.md)
+[Kickers](docs/kickers.md)
 
 ##
 
